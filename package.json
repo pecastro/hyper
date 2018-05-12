@@ -222,6 +222,7 @@
     "eslint-plugin-react": "^7.3.0",
     "husky": "0.14.3",
     "inquirer": "5.1.0",
+    "node-abi": "2.3.0",
     "node-gyp": "3.6.2",
     "prettier": "1.11.1",
     "proxyquire": "1.8.0",
